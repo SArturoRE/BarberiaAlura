@@ -1,0 +1,92 @@
+/*------------ CONFIGURACIONES DE LA BARRA DE MENÚ -------------*/
+header{
+    background-color: #BBBBBB;
+    padding: 2px 0px;
+}
+
+.caja{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+nav{
+    position: absolute;
+    top: 125px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #C78C19;
+    text-decoration:underline;
+}
+/*--------------------------------------------------------*/
+p{
+    text-align: center;
+}
+
+.tituloCentralizado{
+    text-align: center;
+}
+
+
+.tiruloPrincipal{
+    padding-left: 30px;
+}
+
+strong em{
+    color: tomato;
+}
+
+#mision
+{
+    font-size: 20px;
+}
+
+#logo{
+    width: 100%;
+    height: 350px;
+}
+
+.items{
+    font-style: italic;
+}
+
+
+
+.diferenciales{
+    background-color: aquamarine;
+    padding: 30px;
+}
+
+.principal{
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imgDiferencial{
+    width: 25%;
+
+}
